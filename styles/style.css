@@ -5,6 +5,10 @@
     color: #50d8af;
 }
 
+.bg-primarycs{
+    background-color: #0c2e8a;
+}
+
 /* banner style  */
 .banner-img-1{
     background-image: url(../images/carousel/3.jpg);
